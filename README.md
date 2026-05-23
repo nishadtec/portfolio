@@ -23,3 +23,16 @@
 - EmailJS for contact form
 - Custom terminal-style cursor
 - Responsive design
+
+
+## 📬 Contact
+
+- **Email**: anamulhasannishad@gmail.com
+- **LinkedIn**: [Anamul Hasan Nisad](https://www.linkedin.com/in/anamul-hasan-nisad-807053367)
+- **YouTube**: [@cyber.codex01](https://youtube.com/@cyber.codex01)
+- **Facebook**: [anamul.hasan.en](https://www.facebook.com/anamul.hasan.en)
+- **GitHub**: [nishadtec](https://github.com/nishadtec)
+
+## 📄 License
+
+MIT License
